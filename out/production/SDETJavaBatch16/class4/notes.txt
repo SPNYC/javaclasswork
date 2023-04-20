@@ -1,0 +1,5 @@
+Notes:
+   1) command+option+l => format the code
+   2) double tap on curly breackets and it will be highlighted the program
+   inside that curly breackets
+   3)one click on curly breackets will highlight the belong curly breakets to that block

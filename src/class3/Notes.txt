@@ -1,0 +1,36 @@
+Arithmatic Operations in Java:
+Note:
+    1) To rename something we should use refactor feature from IntelleJ.
+    It automaticly renames everything. Right click and then select the
+    refactor feature.
+    ShortCut for Mac is different.
+
+Modules operator/remainder (%)
+    when we use int data type we can use this operator to get the
+    remainder part. Ex. 11/5 we will get remainder 1.
+
+String Concatenation
+    1)Attaches two string in one string.
+    String result="Massi"+10 =>Messi10
+    the result will always be a type of String. Those two data types will be combined.
+    2) Java executes the code from top to bottom and from left to right.
+    But this can be different if we use () parenthesis.
+
+ ShortHandOperators:
+    += , -=, /=, *=, %=, ++, --
+
+ Type casting:
+    is a process of converting one data type to another.
+    it;s very rare that we will be doing type casting.
+
+Relational Operators:
+    to compare 2 or more data.
+    f.e.
+    int num1=10;
+    int num2=20;
+    num1>num2 => False
+    num1<num2 => True
+    num1==num2 => False
+    num1!=num2 => True
+    num>1=num2  => num1>num2 or num1==num2 => False
+    num1<=num2 => num1<num2 or num1==num2 => True

@@ -1,0 +1,71 @@
+Important things to keep in mind for this course:
+    1) Pay attention during the class.
+    2) Before each class I will be sharing short videos and the slides.
+     It's a must that you go through those slides
+     and watch the videos in the courseAnnouncement channel.
+    3) A lot of Practice.
+    4) When practicing if you face any issues don't spend more
+    than 15 minutes take a screenshort and post in the technical
+    support channel.
+   =================================================================
+  Why we are here?
+    1) TO be automation engineers.
+ What do automation engeeners do?
+  They test software but mainly you will be testing websites
+  and mobil apps by writing the piece of software that will test
+  the website automatically.
+  Build the system for them to test very fasting than the human.
+Why we are learning Java?
+    Java is a programming language that we will be using to
+communicate with the computer so that we can guide the computer on how
+to test a website automatically.
+    If we don't use the grammar properly the computer will not be able
+    to understand the language.
+How Programming languages work?
+    They work in a very similar fashion just like how languages work
+    They have grammar rules, vocabulary, punctuation etc.
+    In this part in the course will be learning these rules for Java.
+What is IntelliJ?
+    IntellinJ is a software that we will be using to write java code just
+    like we use microsoft word to write English. It has many features
+    like it can find and fix issues in our code. It can suggest improvements.
+    It can assist you to organize you code and so many other things.
+ What is a project in intelleJ?
+    a project is nothing but a folder that we create to organize our
+    code just like we create folders on our computers to organize files.
+ How to create a project?
+    1) File>New>Project.
+    2) once you follow the above steps ypu will see a pop
+    3) provide the name for the project and click on create.
+ What is a package?
+    A package is nothing but another folder inside the project folder
+    we create packages to organize code.
+ How can I create a package?
+    1) Doudle click scr folder > new> package
+    2) once the pop-up appears enter the same for the package.
+How to create Notes.txt?
+    1) Double click on scr > new> file
+    2) Once the pop-up appears enter the name of the file and
+    the extention .txt
+What is a class?
+    A class is a java program where we will be writing our code.
+    Inside the class we will be creating main method and for now
+    we eill all of our code inside the main method.
+How to create a class?
+    1) Double click on package> new> java class
+    2) name the class> enter
+Some shortcuts to write code quickly:
+    1) write "main" > enter> intelliJ will right the method automatically
+    2) to print something on console we right "sout" and hit...
+What are comments:
+    Comments are like notes we write with java code to explain how the code
+    is working. These comments are ignored by java.
+    1) // one line comment
+    2) /*    */ - multiline comments
+Syntax:
+    is set of rules that we must follow to write java code just like
+    we follow punctuation when we write English.
+
+
+
+

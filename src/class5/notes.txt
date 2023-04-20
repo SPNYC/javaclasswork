@@ -1,0 +1,4 @@
+Logical operators:
+    AND OR NOT
+    &&  || !
+    Work only with boolean data type unless you combine it with operational operators
