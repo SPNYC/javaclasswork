@@ -4,6 +4,14 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/class12" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/class12/Homework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/class13" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/class13/Homework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/class14/Homework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/class15/Homework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/class16/Homework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/class17/Homework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/class18/Homework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/class19/Homework" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/project1" vcs="Git" />
   </component>
 </project>
